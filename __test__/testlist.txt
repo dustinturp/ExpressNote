@@ -1,0 +1,2 @@
+test if get requests work.
+test if creating new note pushes to new page
